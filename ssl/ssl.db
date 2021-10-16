@@ -1,0 +1,129 @@
+--- 
+files: 
+  certificate: 
+    klp2_ruangbelajar_xyz_be7bf_ccfa3_1640845039_17ba2dddb22b2b80365afd90a8843630: 
+      created: '1633072640'
+      domains: 
+        - "*.klp2.ruangbelajar.xyz"
+        - klp2.ruangbelajar.xyz
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “klp2.ruangbelajar.xyz” 1633072640.0
+      id: klp2_ruangbelajar_xyz_be7bf_ccfa3_1640845039_17ba2dddb22b2b80365afd90a8843630
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: be7bf79aade25936cb676f79613de42c8cb1f0cae8a56c7fdc88d9cb95556e908c44a3f9c987649fc4a90037bb6e47e4ead142f85de3cb6b7ea22967b3f7fc216a43ed1f376266b49999f199b30f2140cc8dbe1df2a97819ea932e8b5eeee4da1c095b5ecf513e70e9657441eaf673c081fbb39af565072ebe04ded4f0445aef297a67cbc0ffc914c8b3b4b85211a831c1387f685d24080d1f36f1ce0eff2223907833970d78b0ec7089ab2567929053a00393476e9f2d38de6e8696878e4deff6b48edb7f3dca2ed25777dbd651c372a6c8e581031a5a4e9f52871b624f2783e19a83fdf500d12dfc6f1d08408872c5005d28c50dcd6ebed1b6b618e33ccfa3
+      modulus_length: 2048
+      not_after: '1640845039'
+      not_before: '1633069040'
+      serial: 04b83a01b69de2819f29b81458814f70faaf
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: klp2.ruangbelajar.xyz
+      validation_type: dv
+    klp2_ruangbelajar_xyz_c305f_32e6d_1664602809_83f69bdb39f19f89faf5d6b39500ebb4: 
+      created: '1633066809'
+      domains: 
+        - klp2.ruangbelajar.xyz
+        - mail.klp2.ruangbelajar.xyz
+        - www.klp2.ruangbelajar.xyz
+        - cpanel.klp2.ruangbelajar.xyz
+        - webmail.klp2.ruangbelajar.xyz
+        - webdisk.klp2.ruangbelajar.xyz
+        - cpcontacts.klp2.ruangbelajar.xyz
+        - cpcalendars.klp2.ruangbelajar.xyz
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “klp2.ruangbelajar.xyz”
+      id: klp2_ruangbelajar_xyz_c305f_32e6d_1664602809_83f69bdb39f19f89faf5d6b39500ebb4
+      is_self_signed: 1
+      issuer.commonName: klp2.ruangbelajar.xyz
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: c305f82b71509ab59b8cd106efae613c9ea862ae3b443d2c12dd72c12022e210f767bd2f8d87b1d4910cfd19f060b753f297d8de3abd18dc18a97a13fbcdbc4efbaf8c0b27be681f1214a9d205aa18bead103f0fcadd0ecfd81b871d26519e8180da0abec4422d2d492bfaecfeb5e5363b6fe91af2ee3cd6a172bb32f9ef6d6bc0355db72eeb2075032ab059f9ce29b227cb32d72c0cf522abb6bd73a8ef04ff99100f63f9f86fdf30276428b4756c33b9fd658f29a1e90578059b7c8cbb28dc68ba5a6518212e5fc2b4efd9a98e5f5f5c2a76c3610b488f6edad42b435bdc0be91f2bcb4d1a49212fd924c3ef15443e2ca6a92741618a8717560510ded32e6d
+      modulus_length: 2048
+      not_after: '1664602809'
+      not_before: '1633066809'
+      serial: '0220259074'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: klp2.ruangbelajar.xyz
+      validation_type: ~
+    klp2_ruangbelajar_xyz_cc75e_e2dd9_1640876057_668bd8b081dc273117b68f8171d2806d: 
+      created: '1633103659'
+      domains: 
+        - "*.klp2.ruangbelajar.xyz"
+        - klp2.ruangbelajar.xyz
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “klp2.ruangbelajar.xyz” 1633103659.0
+      id: klp2_ruangbelajar_xyz_cc75e_e2dd9_1640876057_668bd8b081dc273117b68f8171d2806d
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: cc75e8d3a772050996aa28457ee631e6b6795f391df94c895d2e4d3570ddbe3096e5e47fc241c9a99c09fb500a770056e911ebe719aa089a86230905bf1ecd516c9c3f1713afea9b1543042c0c35ad8b1175047dff026d1219420277c41b43827aff1c13ea1795173724cd04dafcb1a44bac99c1330fdafb6f41ccd9705a04890c55e89b4874dd34c4b91e3f798622d5c804702c21f871b737ee3d26109b2a2dfc470aa761489415f5be73728a05ba4621b28f7bb294e459a1073aad6b8228a02c0a21910a14552e87edf8bfda48936ef73c8ea8b9a523082aaa67fcb3b3ff8ec4deed52801da8c952f22609114efec43e7d732ef02ad364961c53a5f9fe2dd9
+      modulus_length: 2048
+      not_after: '1640876057'
+      not_before: '1633100058'
+      serial: 03f82f0e19bc7d445f3b0e0af094ff27b2d7
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: klp2.ruangbelajar.xyz
+      validation_type: dv
+  key: 
+    be7bf_ccfa3_d0332fd55cff6786989399b038b732ad: 
+      created: '1633072640'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “klp2.ruangbelajar.xyz” 1633072640.0
+      id: be7bf_ccfa3_d0332fd55cff6786989399b038b732ad
+      key_algorithm: rsaEncryption
+      modulus: be7bf79aade25936cb676f79613de42c8cb1f0cae8a56c7fdc88d9cb95556e908c44a3f9c987649fc4a90037bb6e47e4ead142f85de3cb6b7ea22967b3f7fc216a43ed1f376266b49999f199b30f2140cc8dbe1df2a97819ea932e8b5eeee4da1c095b5ecf513e70e9657441eaf673c081fbb39af565072ebe04ded4f0445aef297a67cbc0ffc914c8b3b4b85211a831c1387f685d24080d1f36f1ce0eff2223907833970d78b0ec7089ab2567929053a00393476e9f2d38de6e8696878e4deff6b48edb7f3dca2ed25777dbd651c372a6c8e581031a5a4e9f52871b624f2783e19a83fdf500d12dfc6f1d08408872c5005d28c50dcd6ebed1b6b618e33ccfa3
+      modulus_length: 2048
+    c305f_32e6d_2e33435cbf94bf44010adca8c24ee71c: 
+      created: '1633066809'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “klp2.ruangbelajar.xyz”
+      id: c305f_32e6d_2e33435cbf94bf44010adca8c24ee71c
+      key_algorithm: rsaEncryption
+      modulus: c305f82b71509ab59b8cd106efae613c9ea862ae3b443d2c12dd72c12022e210f767bd2f8d87b1d4910cfd19f060b753f297d8de3abd18dc18a97a13fbcdbc4efbaf8c0b27be681f1214a9d205aa18bead103f0fcadd0ecfd81b871d26519e8180da0abec4422d2d492bfaecfeb5e5363b6fe91af2ee3cd6a172bb32f9ef6d6bc0355db72eeb2075032ab059f9ce29b227cb32d72c0cf522abb6bd73a8ef04ff99100f63f9f86fdf30276428b4756c33b9fd658f29a1e90578059b7c8cbb28dc68ba5a6518212e5fc2b4efd9a98e5f5f5c2a76c3610b488f6edad42b435bdc0be91f2bcb4d1a49212fd924c3ef15443e2ca6a92741618a8717560510ded32e6d
+      modulus_length: 2048
+    cc75e_e2dd9_f2ad8f65fc6fa1f109ed332861d395b9: 
+      created: '1633103659'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “klp2.ruangbelajar.xyz” 1633103659.0
+      id: cc75e_e2dd9_f2ad8f65fc6fa1f109ed332861d395b9
+      key_algorithm: rsaEncryption
+      modulus: cc75e8d3a772050996aa28457ee631e6b6795f391df94c895d2e4d3570ddbe3096e5e47fc241c9a99c09fb500a770056e911ebe719aa089a86230905bf1ecd516c9c3f1713afea9b1543042c0c35ad8b1175047dff026d1219420277c41b43827aff1c13ea1795173724cd04dafcb1a44bac99c1330fdafb6f41ccd9705a04890c55e89b4874dd34c4b91e3f798622d5c804702c21f871b737ee3d26109b2a2dfc470aa761489415f5be73728a05ba4621b28f7bb294e459a1073aad6b8228a02c0a21910a14552e87edf8bfda48936ef73c8ea8b9a523082aaa67fcb3b3ff8ec4deed52801da8c952f22609114efec43e7d732ef02ad364961c53a5f9fe2dd9
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      be7bf79aade25936cb676f79613de42c8cb1f0cae8a56c7fdc88d9cb95556e908c44a3f9c987649fc4a90037bb6e47e4ead142f85de3cb6b7ea22967b3f7fc216a43ed1f376266b49999f199b30f2140cc8dbe1df2a97819ea932e8b5eeee4da1c095b5ecf513e70e9657441eaf673c081fbb39af565072ebe04ded4f0445aef297a67cbc0ffc914c8b3b4b85211a831c1387f685d24080d1f36f1ce0eff2223907833970d78b0ec7089ab2567929053a00393476e9f2d38de6e8696878e4deff6b48edb7f3dca2ed25777dbd651c372a6c8e581031a5a4e9f52871b624f2783e19a83fdf500d12dfc6f1d08408872c5005d28c50dcd6ebed1b6b618e33ccfa3: 
+        klp2_ruangbelajar_xyz_be7bf_ccfa3_1640845039_17ba2dddb22b2b80365afd90a8843630: ~
+      c305f82b71509ab59b8cd106efae613c9ea862ae3b443d2c12dd72c12022e210f767bd2f8d87b1d4910cfd19f060b753f297d8de3abd18dc18a97a13fbcdbc4efbaf8c0b27be681f1214a9d205aa18bead103f0fcadd0ecfd81b871d26519e8180da0abec4422d2d492bfaecfeb5e5363b6fe91af2ee3cd6a172bb32f9ef6d6bc0355db72eeb2075032ab059f9ce29b227cb32d72c0cf522abb6bd73a8ef04ff99100f63f9f86fdf30276428b4756c33b9fd658f29a1e90578059b7c8cbb28dc68ba5a6518212e5fc2b4efd9a98e5f5f5c2a76c3610b488f6edad42b435bdc0be91f2bcb4d1a49212fd924c3ef15443e2ca6a92741618a8717560510ded32e6d: 
+        klp2_ruangbelajar_xyz_c305f_32e6d_1664602809_83f69bdb39f19f89faf5d6b39500ebb4: ~
+      cc75e8d3a772050996aa28457ee631e6b6795f391df94c895d2e4d3570ddbe3096e5e47fc241c9a99c09fb500a770056e911ebe719aa089a86230905bf1ecd516c9c3f1713afea9b1543042c0c35ad8b1175047dff026d1219420277c41b43827aff1c13ea1795173724cd04dafcb1a44bac99c1330fdafb6f41ccd9705a04890c55e89b4874dd34c4b91e3f798622d5c804702c21f871b737ee3d26109b2a2dfc470aa761489415f5be73728a05ba4621b28f7bb294e459a1073aad6b8228a02c0a21910a14552e87edf8bfda48936ef73c8ea8b9a523082aaa67fcb3b3ff8ec4deed52801da8c952f22609114efec43e7d732ef02ad364961c53a5f9fe2dd9: 
+        klp2_ruangbelajar_xyz_cc75e_e2dd9_1640876057_668bd8b081dc273117b68f8171d2806d: ~
+    subject.commonName: 
+      klp2.ruangbelajar.xyz: 
+        klp2_ruangbelajar_xyz_be7bf_ccfa3_1640845039_17ba2dddb22b2b80365afd90a8843630: ~
+        klp2_ruangbelajar_xyz_c305f_32e6d_1664602809_83f69bdb39f19f89faf5d6b39500ebb4: ~
+        klp2_ruangbelajar_xyz_cc75e_e2dd9_1640876057_668bd8b081dc273117b68f8171d2806d: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “klp2.ruangbelajar.xyz”: klp2_ruangbelajar_xyz_c305f_32e6d_1664602809_83f69bdb39f19f89faf5d6b39500ebb4
+      Cert for “klp2.ruangbelajar.xyz” 1633072640.0: klp2_ruangbelajar_xyz_be7bf_ccfa3_1640845039_17ba2dddb22b2b80365afd90a8843630
+      Cert for “klp2.ruangbelajar.xyz” 1633103659.0: klp2_ruangbelajar_xyz_cc75e_e2dd9_1640876057_668bd8b081dc273117b68f8171d2806d
+  key: 
+    friendly_name: 
+      Key for “klp2.ruangbelajar.xyz”: c305f_32e6d_2e33435cbf94bf44010adca8c24ee71c
+      Key for “klp2.ruangbelajar.xyz” 1633072640.0: be7bf_ccfa3_d0332fd55cff6786989399b038b732ad
+      Key for “klp2.ruangbelajar.xyz” 1633103659.0: cc75e_e2dd9_f2ad8f65fc6fa1f109ed332861d395b9
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      be7bf79aade25936cb676f79613de42c8cb1f0cae8a56c7fdc88d9cb95556e908c44a3f9c987649fc4a90037bb6e47e4ead142f85de3cb6b7ea22967b3f7fc216a43ed1f376266b49999f199b30f2140cc8dbe1df2a97819ea932e8b5eeee4da1c095b5ecf513e70e9657441eaf673c081fbb39af565072ebe04ded4f0445aef297a67cbc0ffc914c8b3b4b85211a831c1387f685d24080d1f36f1ce0eff2223907833970d78b0ec7089ab2567929053a00393476e9f2d38de6e8696878e4deff6b48edb7f3dca2ed25777dbd651c372a6c8e581031a5a4e9f52871b624f2783e19a83fdf500d12dfc6f1d08408872c5005d28c50dcd6ebed1b6b618e33ccfa3: be7bf_ccfa3_d0332fd55cff6786989399b038b732ad
+      c305f82b71509ab59b8cd106efae613c9ea862ae3b443d2c12dd72c12022e210f767bd2f8d87b1d4910cfd19f060b753f297d8de3abd18dc18a97a13fbcdbc4efbaf8c0b27be681f1214a9d205aa18bead103f0fcadd0ecfd81b871d26519e8180da0abec4422d2d492bfaecfeb5e5363b6fe91af2ee3cd6a172bb32f9ef6d6bc0355db72eeb2075032ab059f9ce29b227cb32d72c0cf522abb6bd73a8ef04ff99100f63f9f86fdf30276428b4756c33b9fd658f29a1e90578059b7c8cbb28dc68ba5a6518212e5fc2b4efd9a98e5f5f5c2a76c3610b488f6edad42b435bdc0be91f2bcb4d1a49212fd924c3ef15443e2ca6a92741618a8717560510ded32e6d: c305f_32e6d_2e33435cbf94bf44010adca8c24ee71c
+      cc75e8d3a772050996aa28457ee631e6b6795f391df94c895d2e4d3570ddbe3096e5e47fc241c9a99c09fb500a770056e911ebe719aa089a86230905bf1ecd516c9c3f1713afea9b1543042c0c35ad8b1175047dff026d1219420277c41b43827aff1c13ea1795173724cd04dafcb1a44bac99c1330fdafb6f41ccd9705a04890c55e89b4874dd34c4b91e3f798622d5c804702c21f871b737ee3d26109b2a2dfc470aa761489415f5be73728a05ba4621b28f7bb294e459a1073aad6b8228a02c0a21910a14552e87edf8bfda48936ef73c8ea8b9a523082aaa67fcb3b3ff8ec4deed52801da8c952f22609114efec43e7d732ef02ad364961c53a5f9fe2dd9: cc75e_e2dd9_f2ad8f65fc6fa1f109ed332861d395b9

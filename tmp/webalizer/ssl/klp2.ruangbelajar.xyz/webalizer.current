@@ -1,0 +1,355 @@
+# Webalizer V2.23-08 Incremental Data - 10/15/2021 23:21:28
+2021 10 15 23 21 28
+424 304 42 9 10 31 8398614 187 41 0
+5 1 70 1 15
+9 9 54740 4 9 4
+14 8 3738 10 13 10
+1 0 0 1 0 0
+0 0 0 0 0 0
+2 1 623 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+32 22 37342 9 23 9
+5 4 746 4 4 4
+0 0 0 0 0 0
+79 58 1991477 3 28 3
+175 139 5979127 3 66 4
+1 1 214 1 1 1
+0 0 0 0 0 0
+106 62 330607 5 42 5
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 623 1
+2 2 0 2
+1 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+47 31 1975060 27
+47 40 2121939 22
+73 66 1618200 16
+30 13 742731 10
+33 23 917321 14
+27 27 595885 8
+0 0 0 0
+0 0 0 0
+22 17 88464 18
+84 49 323176 50
+47 27 9629 11
+0 0 0 0
+2 2 428 2
+3 2 1956 2
+0 0 0 0
+0 0 0 0
+3 3 1869 3
+1 1 1333 1
+0
+0
+0
+304
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+2
+0
+0
+0
+0
+0
+0
+101
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+0
+0
+0
+0
+0
+# -urls- 
+/assets/css/bootstrap.min.css
+0 9 0 1311128 0 0
+/name_age.php
+0 21 39147920 6088 0 0
+/chelsea/
+0 89 0 5676307 6 2
+/chelsea/match-details.php
+0 38 0 185319 0 0
+/assets/js/bootstrap.bundle.min.js
+0 9 0 625032 0 0
+/cpanel
+0 1 0 33967 0 0
+/syahrul.php
+0 6 39147632 466 0 0
+/
+0 77 0 81136 32 0
+/chelsea/partial/standing.php
+0 56 0 477850 0 0
+# End Of Table - urls
+# -sites- (monthly)
+61.135.15.141
+0 1 1 214 1 1633804645
+/
+berlin01.tor-exit.artikel10.org
+0 1 0 0 0 0
+-
+18.162.77.34.bc.googleusercontent.com
+0 1 1 1333 1 1634340088
+/
+vps-dcaa45f9.vps.ovh.net
+0 1 0 0 1 1633192977
+-
+114-5-102-89.resources.indosat.com
+0 1 1 1333 1 1634324829
+/
+36.68.219.78
+0 2 1 159 1 1633706998
+/
+unn-84-17-46-176.cdn77.com
+0 2 1 623 1 1633192977
+-
+94.176.175.38
+0 1 1 623 1 1633392056
+/
+subs12-223-255-228-89.three.co.id
+0 2 2 67929 1 1633953024
+/chelsea/
+36.90.55.239
+0 3 2 34590 1 1633702966
+/cpanel
+167.94.138.116
+0 2 2 50379 1 1633098161
+/
+162.222.198.131.static.quadranet.com
+0 1 0 0 1 1633192978
+-
+114-5-243-110.resources.indosat.com
+0 3 2 318 1 1633707534
+/
+subs08-103-10-67-168.three.co.id
+0 14 10 1162 1 1633705954
+/
+2.58.29.154
+0 1 1 623 1 1633192745
+/
+110.137.100.29
+0 3 2 232 1 1634312431
+/
+114.125.78.54
+0 1 1 159 1 1633706647
+/
+36.73.207.223
+0 3 2 318 1 1633707014
+/
+subs08-103-10-67-162.three.co.id
+0 21 9 688358 1 1634019975
+/chelsea/
+181.214.33.239
+0 1 0 0 0 0
+-
+subs08-103-10-67-149.three.co.id
+0 76 56 1923548 2 1633952213
+/chelsea/
+118.99.76.176
+0 6 4 808 1 1634312622
+/
+45.221.68.132
+0 1 0 0 1 1633192980
+-
+subs08-103-10-67-156.three.co.id
+0 109 96 3832076 2 1634026473
+/chelsea/
+179.43.169.181
+0 3 3 1869 1 1633129113
+/
+191.101.94.60
+0 1 0 0 0 0
+-
+179.61.159.185
+0 2 1 623 1 1633204369
+/
+125.166.119.139
+0 95 54 326901 1 1634313851
+/
+61.135.15.167
+0 1 1 214 1 1633804997
+/
+34.163.143.150.dyn.plus.net
+0 2 1 623 1 1633192977
+-
+110.137.101.68
+0 2 1 159 1 1633707008
+/
+subs12-223-255-228-102.three.co.id
+0 2 1 159 1 1633768915
+/
+104.244.210.247
+0 1 1 623 1 1633192745
+/
+subs12-223-255-228-107.three.co.id
+0 45 34 1458693 1 1634030138
+/chelsea/
+scanner-09.ch1.censys-scanner.com
+0 2 2 1246 1 1633098156
+/
+unn-84-17-46-164.cdn77.com
+0 1 1 623 1 1633192745
+/
+li849-175.members.linode.com
+0 2 2 0 1 1633138050
+/
+ruby.hidden-server.net
+0 1 1 159 1 1633768997
+/
+114-5-222-136.resources.indosat.com
+0 3 2 318 1 1633707032
+/
+cache.google.com
+0 1 1 159 1 1633707000
+/
+13.162.77.34.bc.googleusercontent.com
+0 1 1 214 1 1634105701
+/
+scanner-08.ch1.censys-scanner.com
+0 2 2 1246 1 1633097863
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+18.162.77.34.bc.googleusercontent.com
+0 1 1 1333 1 1634340088
+/
+114-5-102-89.resources.indosat.com
+0 1 1 1333 1 1634324829
+/
+110.137.100.29
+0 3 2 232 1 1634312431
+/
+118.99.76.176
+0 6 4 808 1 1634312622
+/
+125.166.119.139
+0 95 54 326901 1 1634313851
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.google.com/
+0 1
+- (Direct Request)
+0 163
+https://klp2.ruangbelajar.xyz/chelsea/partial/standing.php
+0 9
+https://klp2.ruangbelajar.xyz/
+0 55
+https://klp2.ruangbelajar.xyz/chelsea/
+0 97
+http://cpanel.ruangbelajar.xyz/
+0 24
+https://klp2.ruangbelajar.xyz/name_age.php
+0 19
+https://klp2.ruangbelajar.xyz/chelsea/match-details.php
+0 48
+https://klp2.ruangbelajar.xyz/cgi-bin/
+0 5
+https://klp2.ruangbelajar.xyz/syahrul.php
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 
+0 1
+Mozilla/5.0 (Linux; Android 8.0; OPPO x20 70816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safar
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E14
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+0 95
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+0 241
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36
+0 1
+Softaculous
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+0 1
+Go-http-client/1.1
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 
+0 7
+Mozilla/5.0 (Linux; Android 11; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 8.0; HUAWEI P20 Build/23112) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4472.114 Mobile S
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/93.0.4577.39 Mobile/15E
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
+0 2
+WhatsApp/2.21.14.24 A
+0 1
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Saf
+0 14
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Sa
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa
+0 1
+Expanse indexes the network perimeters of our customers. If you have any questions or concerns, please reach out to: scaninfo
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 11; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.99 Mobile Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+0 14
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 7.0; SM-G925F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

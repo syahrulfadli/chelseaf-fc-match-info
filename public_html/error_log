@@ -1,0 +1,62 @@
+[15-Oct-2021 15:18:00 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/index.php on line 2
+[15-Oct-2021 15:18:00 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/index.php on line 2
+[15-Oct-2021 15:20:59 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/syahrul.php on line 4
+[15-Oct-2021 15:21:37 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/index.php on line 2
+[15-Oct-2021 15:21:37 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/index.php on line 2
+[15-Oct-2021 15:22:30 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/index.php on line 2
+[15-Oct-2021 15:22:30 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/index.php on line 2
+[15-Oct-2021 15:28:01 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/index.php on line 2
+[15-Oct-2021 15:28:01 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/index.php on line 2
+[15-Oct-2021 15:30:43 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/index.php on line 4
+[15-Oct-2021 15:30:43 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/index.php on line 4
+[15-Oct-2021 15:31:15 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/index.php on line 4
+[15-Oct-2021 15:31:15 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/index.php on line 4
+[15-Oct-2021 15:31:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:31:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:31:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:31:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:32:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:32:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:32:48 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:32:48 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:33:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:38:07 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/index.php on line 7
+[15-Oct-2021 15:38:07 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/index.php on line 7
+[15-Oct-2021 15:42:44 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/syahrul.php on line 4
+[15-Oct-2021 15:43:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$param1' (T_VARIABLE) in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:43:53 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:44:08 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:44:10 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:44:10 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:44:40 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:46:54 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/index.php on line 6
+[15-Oct-2021 15:47:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '>' in /home/klp2ruangbelajar/public_html/index.php on line 5
+[15-Oct-2021 15:49:37 Asia/Jakarta] PHP Notice:  Undefined index: param1 in /home/klp2ruangbelajar/public_html/index.php on line 6
+[15-Oct-2021 15:51:13 Asia/Jakarta] PHP Notice:  Undefined index: param1 in /home/klp2ruangbelajar/public_html/index.php on line 6
+[15-Oct-2021 15:52:23 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/syahrul.php on line 4
+[15-Oct-2021 15:55:04 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/syahrul.php on line 4
+[15-Oct-2021 15:55:25 Asia/Jakarta] PHP Notice:  Undefined index: param1 in /home/klp2ruangbelajar/public_html/HTTP_GET.php on line 6
+[15-Oct-2021 15:55:30 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/syahrul.php on line 4
+[15-Oct-2021 15:58:17 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 6
+[15-Oct-2021 15:58:17 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 6
+[15-Oct-2021 15:58:30 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 15:58:30 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 15:59:34 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 15:59:34 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:00:32 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:00:32 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:03:39 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:03:39 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:04:14 Asia/Jakarta] PHP Notice:  Undefined index: param in /home/klp2ruangbelajar/public_html/syahrul.php on line 4
+[15-Oct-2021 16:07:53 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:07:53 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:10:33 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:10:33 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:10:41 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:10:41 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:13:39 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:13:39 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:14:37 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:14:37 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:14:39 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/klp2ruangbelajar/public_html/name_age.php on line 7
+[15-Oct-2021 16:14:39 Asia/Jakarta] PHP Notice:  Undefined index: age in /home/klp2ruangbelajar/public_html/name_age.php on line 7

@@ -1,0 +1,1 @@
+{"timeout":0,"data":[{"user":"klp2ruangbelajar","type":"main","homedir":"/home/klp2ruangbelajar"},{"homedir":"/etc/apache2/logs/domlogs/klp2ruangbelajar","type":"logaccess","user":"klp2ruangbelajar_logs"}],"action":"fetch","version":"2.4","statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","error":0,"exit_code":0,"status":1,"mode":"simple"}

@@ -1,0 +1,505 @@
+# Webalizer V2.23-08 Incremental Data - 10/16/2021 11:50:58
+2021 10 16 11 50 58
+740 568 65 58 10 27 12268298 361 58 0
+2 1 52 1 16
+58 58 7158 8 6 3
+16 7 4361 12 14 10
+2 1 623 2 1 1
+1 1 623 1 1 1
+2 1 623 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 2 318 2 2 2
+231 171 2246714 5 158 6
+167 137 2399642 5 46 8
+81 76 2713620 3 44 3
+61 41 1848758 10 31 8
+19 12 674998 5 9 4
+13 5 376504 2 4 1
+78 53 1863949 8 41 8
+6 3 130407 2 3 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 2 1246 2
+1 1 214 1
+5 0 0 0
+0 0 0 0
+0 0 0 0
+5 2 837 2
+1 1 63027 1
+12 7 414284 6
+71 55 2388663 49
+128 93 2452089 66
+96 76 1592759 38
+55 48 591628 27
+103 83 1126728 53
+54 41 247119 39
+35 33 175257 9
+62 45 1036927 21
+43 29 347872 23
+0 0 0 0
+12 8 454461 6
+14 12 135063 3
+9 5 376504 4
+0 0 0 0
+31 27 863620 11
+0 0 0 0
+0
+0
+0
+568
+0
+0
+0
+0
+0
+0
+0
+21
+0
+0
+28
+0
+0
+0
+0
+0
+0
+94
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+29
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/67YVJYPA01DALSGKQ_X87MBR0FT9YFBX
+0 1 0 64 0 0
+/.well-known/acme-challenge/_D94UKCEG72LUCA29PT3BHMXXS9H6KHH
+0 1 0 64 0 0
+/assets/css/bootstrap.min.css
+0 40 0 2458365 0 0
+/.well-known/acme-challenge/0QP1DWWN4ABVKY68SVZPR2N8S4I3TACA
+0 1 0 64 0 0
+/.well-known/acme-challenge/9--O-MF90AJY93GM5EANV1WBRFY-CLBV
+0 1 0 64 0 0
+/.well-known/acme-challenge/NG5M-UYFQD9DQ97KLI7B7VY2N37NC1W8
+0 1 0 64 0 0
+/.well-known/acme-challenge/HV5LKT59V4K4WBX2__BHOIA02VR7WFE4
+0 1 0 64 0 0
+/.well-known/acme-challenge/9-Y3OEI1LEJPOKZL_99_952-8U6RUFG6
+0 1 0 64 0 0
+/.well-known/acme-challenge/CVGJH0DYR57DLGDQUSINYR2EQUQXKIH3
+0 1 0 64 0 0
+/.well-known/acme-challenge/EB5MYNZWIHVV5QA8HV82FQNM8LRJLN90
+0 1 0 64 0 0
+/.well-known/acme-challenge/6Z-2C_Y_NIO148MJSB97YS4MZN5371PB
+0 1 0 64 0 0
+/.well-known/acme-challenge/C3PSFO9ZIPXE213O5WWUPYN9XT50HJI_
+0 1 18446744073709551615 64 0 0
+/.well-known/acme-challenge/DGQ1B1RT12E_QIBWW5ADRUJ96NQUPZ6-
+0 1 12 64 0 0
+/.well-known/acme-challenge/LFL618O5XV_BLGD8Z3U81VGE95BLEXMC
+0 1 0 64 0 0
+/.well-known/acme-challenge/NUWD2KP5UZ5S4UVJH69TMC0J4_96EQWG
+0 1 0 64 0 0
+/.well-known/acme-challenge/HZJPR1M4-H3GV3_UQ9HD5-LOYYEPER-D
+0 1 0 64 0 0
+/.well-known/acme-challenge/FQ8Z4W6F831_83IDKQE5MW306-91RD04
+0 1 0 64 0 0
+/.well-known/acme-challenge/ATSTC90_04N00X30FKBG95ZY8-84ZM25
+0 1 0 64 0 0
+/.well-known/acme-challenge/LWUPR9SNWT9ZE0XH6QEVMV5GEQ17EVD0
+0 1 0 64 0 0
+/.well-known/acme-challenge/K-V9KV9V2EZQ8NWCEJZ1ZJAGYCPI6PIS
+0 1 0 64 0 0
+/.well-known/acme-challenge/YMNP06K2_JW037TR5UICZSFTKX2B05JO
+0 1 0 64 0 0
+/chelsea/
+0 255 0 8109260 19 9
+/.well-known/acme-challenge/7CE_S11NLZ0525DUA27_7M6CREDQB6CO
+0 1 0 64 0 0
+/chelsea/partial/allmatch.php
+0 34 0 491681 0 0
+/.well-known/acme-challenge/BN7DECPF59YKR3O51R60WCSM371V5HK_
+0 1 0 64 0 0
+/.well-known/acme-challenge/S_OH_W8D39PPXV10B513757B_6HDJVGW
+0 1 0 64 0 0
+/chelsea/match-details.php
+0 136 0 407814 0 0
+/.well-known/acme-challenge/AEJ2MTUJA00MWNUIDXZAF2T3G5XSW20H
+0 1 0 64 0 0
+/assets/js/bootstrap.bundle.min.js
+0 11 0 625032 0 0
+/.well-known/acme-challenge/UUHLJQA_LMH0N0UXLA5XR1HLR6549BVJ
+0 1 0 64 0 0
+/.well-known/acme-challenge/2CKETMGPE0OJ2RVGU8DI4KDP51Y6TLF6
+0 1 0 64 0 0
+/.well-known/acme-challenge/ZJO0KMZ_THEHIAW5EROWNBDB1-Q8XMR0
+0 1 0 64 0 0
+/.well-known/acme-challenge/vlJK42pzGktDiKhrfv9WbQ132Ts-XfzKFJOdYN0r7VQ
+0 4 0 348 0 0
+/.well-known/acme-challenge/1J761IU6LPUGNUUNESZ3VYIUJYZID3Z0
+0 1 0 64 0 0
+/.well-known/acme-challenge/QRLK3LQIGXXZ1UOBWPDX7F2JSUODPCYL
+0 1 0 64 0 0
+/.well-known/acme-challenge/PK9_7M573LBO4GYE1ZR55W5SC7NWDL9X
+0 1 0 64 0 0
+/.well-known/acme-challenge/YZN47ULIK2VRLBEQS-Y1LX-_VLYV-9CO
+0 1 0 64 0 0
+/.well-known/acme-challenge/42XLU-6IW8NFS1DADIFC8O34U4A7S26S
+0 1 0 64 0 0
+/.well-known/acme-challenge/9E62-0_9BZ1FSTZSJS_HJE484P-GBWWQ
+0 1 0 64 0 0
+/.well-known/acme-challenge/4WPTQECBYN1RLOP-7W8P8E9NWZF_97U1
+0 1 0 64 0 0
+/.well-known/acme-challenge/184LA47X7ZD9TNFID77YI4UYTMFRLSYL
+0 1 0 64 0 0
+/syahrul.php
+0 4 19931344 230 0 0
+/.well-known/acme-challenge/I2QN_7THF2J10Q-3J_P3Z7RQECNW0XA5
+0 1 0 64 0 0
+/
+0 51 0 18660 34 0
+/chelsea/partial/header.php
+0 2 0 44 0 0
+/.well-known/acme-challenge/2J6R26N_3_07ADZ4SER75ZD5J76FBEI4
+0 1 3689066024646213632 64 0 0
+/.well-known/acme-challenge/Q-1RUG_1AH34GR-7VEOC0HGROIEC97-5
+0 1 6379515 64 0 0
+/.well-known/acme-challenge/VAK2-ZFNWPK5CGHPX0AKBBAK6Z9CYGKY
+0 1 97 64 0 0
+/.well-known/acme-challenge/9RNP7O6DYD_LRU1UOQX7K2HF012W-AWG
+0 1 7453010382218553390 64 0 0
+/.well-known/acme-challenge/KDKDV7G8HEJL2_MXBTDHP4MALLY378QR
+0 1 3978418105346831152 64 0 0
+/.well-known/acme-challenge/X9BEL2-299F43YUTR0KWW00HJZS62KKX
+0 1 8286623314361712640 64 0 0
+/.well-known/acme-challenge/TJ-YO3T3VQ55UCBJ_A5RQGR_JQMKBD2G
+0 1 4047953428317287733 64 0 0
+/.well-known/acme-challenge/97NUF1Q_BCV-E8BBFA16PB644B2LV57D
+0 1 0 64 0 0
+/.well-known/acme-challenge/ZKUV82YN2DUPTU_U0AP2_LZO3YFF82EP
+0 1 0 64 0 0
+/chelsea/partial/standing.php
+0 11 0 145882 0 0
+/.well-known/acme-challenge/SSGB8VBFF96IDIITDOI-R9JVXVIVRHSY
+0 1 0 64 0 0
+/.well-known/acme-challenge/RY_9R8L8NRMGSM9NDJJJ22VBOY7FA-MN
+0 1 0 64 0 0
+/.well-known/acme-challenge/BDCLH_92QVG3-2HQ3GM_O7CV9KAAYCXP
+0 1 0 64 0 0
+# End Of Table - urls
+# -sites- (monthly)
+114.122.166.26
+0 37 21 948832 1 1634292283
+/chelsea/
+61.164.47.194
+0 1 1 623 1 1633323710
+/
+subs12-223-255-228-87.three.co.id
+0 73 65 667881 2 1633869468
+/chelsea/
+subs12-223-255-228-104.three.co.id
+0 6 5 63918 2 1634108659
+/
+subs12-223-255-228-81.three.co.id
+0 20 17 763301 2 1634041482
+/chelsea/
+185.150.85.10
+0 1 1 623 1 1633392056
+/
+subs08-103-10-67-158.three.co.id
+0 30 18 686230 2 1633855152
+/chelsea/
+180.253.167.161
+0 3 2 522 1 1634313269
+/
+203.29.26.16
+0 2 1 159 1 1633706588
+/
+112.215.219.9
+0 7 5 277036 1 1633903586
+/chelsea/
+subs12-223-255-228-84.three.co.id
+0 2 2 518 1 1634313241
+/
+31.130.96.34.bc.googleusercontent.com
+0 1 1 214 1 1634275880
+/
+140.213.151.203
+0 9 7 225489 1 1634043639
+/chelsea/
+194.61.112.94
+0 1 0 0 0 0
+-
+13.130.96.34.bc.googleusercontent.com
+0 1 1 214 1 1634088811
+/
+140.213.127.111
+0 16 14 586072 1 1633991074
+/chelsea/
+vps-dcaa45f9.vps.ovh.net
+0 1 0 0 1 1633192977
+-
+112.215.220.113
+0 1 0 0 0 0
+-
+112.215.220.187
+0 2 0 0 0 0
+-
+unn-84-17-46-176.cdn77.com
+0 3 1 623 1 1633192981
+-
+112.215.219.17
+0 2 0 0 0 0
+-
+162.222.198.131.static.quadranet.com
+0 1 0 0 1 1633192977
+-
+subs12-223-255-228-105.three.co.id
+0 83 63 559032 2 1633786441
+/chelsea/
+45.131.93.126
+0 1 1 623 1 1633277368
+/
+subs12-223-255-228-90.three.co.id
+0 5 2 129074 1 1634377721
+/chelsea/
+subs08-103-10-67-152.three.co.id
+0 120 91 1577422 3 1633861808
+/chelsea/
+subs12-223-255-228-97.three.co.id
+0 3 1 159 1 1633709458
+/
+2.58.29.154
+0 1 1 623 1 1633192746
+/
+191.101.82.51
+0 1 0 0 0 0
+-
+subs08-103-10-67-162.three.co.id
+0 4 1 63027 1 1634018412
+/chelsea/
+scanner-06.ch1.censys-scanner.com
+0 2 2 1246 1 1633098150
+/
+112.215.220.82
+0 2 0 0 0 0
+-
+45.221.68.132
+0 2 0 0 1 1633192981
+-
+subs08-103-10-67-172.three.co.id
+0 16 14 449901 1 1634312477
+/
+29.130.96.34.bc.googleusercontent.com
+0 1 1 214 1 1634055678
+/
+16.130.96.34.bc.googleusercontent.com
+0 1 1 1333 1 1634385058
+/
+ec2-3-19-56-43.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+subs08-103-10-67-169.three.co.id
+0 7 5 298066 1 1634139076
+/chelsea/
+179.61.159.185
+0 1 0 0 0 0
+-
+125.166.119.139
+0 7 3 782 1 1634313251
+/
+ec2-18-192-36-99.eu-central-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+34.163.143.150.dyn.plus.net
+0 2 1 623 1 1633192977
+-
+203.78.121.138
+0 9 5 376504 1 1634242367
+/chelsea/
+subs12-223-255-228-102.three.co.id
+0 13 9 508 1 1633772016
+/chelsea/
+179.61.172.120
+0 1 0 0 0 0
+-
+104.244.210.247
+0 1 1 623 1 1633192744
+/
+subs12-223-255-228-107.three.co.id
+0 7 4 208338 1 1634030728
+/chelsea/
+65.154.226.165
+0 1 1 623 1 1633133452
+/
+182.1.90.61
+0 2 2 521 1 1634313239
+/
+outbound2.letsencrypt.org
+0 1 1 87 0 0
+-
+subs12-223-255-228-86.three.co.id
+0 37 28 231858 1 1633789538
+/chelsea/
+subs08-103-10-67-146.three.co.id
+0 7 5 376504 1 1634110343
+/chelsea/
+140.213.127.65
+0 14 11 588389 2 1634066427
+/chelsea/
+scanner-09.ch1.censys-scanner.com
+0 2 2 1246 1 1633098154
+/
+unn-84-17-46-164.cdn77.com
+0 1 1 623 1 1633192744
+/
+ruby.hidden-server.net
+0 48 48 3072 0 0
+-
+subs08-103-10-67-165.three.co.id
+0 31 25 582685 1 1633798332
+/chelsea/
+server.hostingnow.com.br
+0 1 0 0 0 0
+-
+subs12-223-255-228-99.three.co.id
+0 64 62 2127548 2 1633944981
+/chelsea/
+120.79.8.125
+0 4 0 0 0 0
+-
+tor-exit-11.zbau.f3netze.de
+0 1 0 0 0 0
+-
+scanner-08.ch1.censys-scanner.com
+0 2 2 1246 1 1633097859
+/
+ec2-52-39-4-59.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+31.40.221.164
+0 1 1 623 1 1633204369
+/
+subs12-223-255-228-91.three.co.id
+0 10 8 462659 1 1634293140
+/chelsea/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+subs12-223-255-228-90.three.co.id
+0 5 2 129074 1 1634377721
+/chelsea/
+16.130.96.34.bc.googleusercontent.com
+0 1 1 1333 1 1634385058
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://klp2.ruangbelajar.xyz/syahrul.php
+0 1
+http://klp2.ruangbelajar.xyz/cgi-bin/
+0 5
+http://klp2.ruangbelajar.xyz/chelsea/
+0 242
+http://klp2.ruangbelajar.xyz/chelsea/partial/standing.php
+0 16
+- (Direct Request)
+0 374
+http://klp2.ruangbelajar.xyz/chelsea/match-details.php
+0 60
+http://klp2.ruangbelajar.xyz/
+0 34
+http://klp2.ruangbelajar.xyz/chelsea/partial/allmatch.php
+0 3
+http://klp2.ruangbelajar.xyz/HTTP_GET.php
+0 4
+http://klp2.ruangbelajar.xyz/chelsea/index.php
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E14
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+0 47
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+0 488
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+0 1
+Go-http-client/1.1
+0 8
+Mozilla/5.0 (Linux; Android 10; M2006C3MG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36
+0 14
+WhatsApp/2.21.15.20 A
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36
+0 61
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/93.0.4577.39 Mobile/15E
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.
+0 23
+Cpanel-HTTP-Client/1.0
+0 48
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C;
+0 1
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Saf
+0 14
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa
+0 1
+Expanse indexes the network perimeters of our customers. If you have any questions or concerns, please reach out to: scaninfo
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

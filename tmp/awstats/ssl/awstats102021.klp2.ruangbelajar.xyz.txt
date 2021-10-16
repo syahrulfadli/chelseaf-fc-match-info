@@ -1,0 +1,343 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202110 will be lost/reset.
+# Last config file used to build this data file was /home/klp2ruangbelajar/tmp/awstats/ssl/awstats.klp2.ruangbelajar.xyz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2030                
+POS_TIME 2712                
+POS_VISITOR 7592                
+POS_DAY 8946                
+POS_DOMAIN 3285                
+POS_LOGIN 3582                
+POS_ROBOT 3737                
+POS_WORMS 4005                
+POS_EMAILSENDER 4136                
+POS_EMAILRECEIVER 4279                
+POS_SESSION 9180                
+POS_SIDER 9376                
+POS_FILETYPES 4414                
+POS_DOWNLOADS 4572                
+POS_OS 4620                
+POS_BROWSER 4853                
+POS_SCREENSIZE 5325                
+POS_UNKNOWNREFERER 5399                
+POS_UNKNOWNREFERERBROWSER 5792                
+POS_ORIGIN 6094                
+POS_SEREFERRALS 6234                
+POS_PAGEREFS 6397                
+POS_SEARCHWORDS 6617                
+POS_KEYWORDS 6769                
+POS_MISC 2376                
+POS_ERRORS 6828                
+POS_CLUSTER 3438                
+POS_SIDER_404 6933                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211015232128 106 21417 14684764178346
+FirstTime 20211001141743
+LastTime 20211015232128
+LastUpdate 20211016151234 106 0 106 0 0
+TotalVisits 33                  
+TotalUnique 33                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 2 623
+1 2 2 0 0 0 0
+2 0 0 0 1 1 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 27 33 1974266 11 14 794
+7 34 40 2121658 4 7 281
+8 64 66 1618200 5 7 0
+9 11 13 742485 13 17 246
+10 23 23 917321 10 10 0
+11 27 27 595885 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 14 14 49114 4 8 39350
+15 47 49 323176 9 35 0
+16 27 27 9629 7 20 0
+17 0 0 0 0 0 0
+18 2 2 428 0 0 0
+19 1 1 1333 1 2 623
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 3 3 1869
+23 1 1 1333 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+id 265 283 8336058
+us 7 7 16314
+nl 2 2 0
+it 2 2 1246
+cn 2 2 428
+il 1 1 623
+in 1 1 159
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 3 39350 20211001142235 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 1869 20211001225833 0
+Go\-http\-client/ 2 1246 20211005000056 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+Unknown 1 33967 0 0
+css 9 1311128 0 0
+php 122 669973 0 0
+html 157 5714728 0 0
+js 9 625032 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win7 2 2
+macosx14 2 2
+linux 199 186
+androidlollipop 1 1
+win10 58 56
+Unknown 7 7
+androidnougat 2 2
+android 3 3
+androidoreo 2 2
+androidmarshmallow 11 8
+ios_iphone 11 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+safari 1 1
+safari14.0.1 5 5
+safari15.0 3 3
+chrome88.0.4298.0 1 1
+chrome94.0.4606.71 1 1
+firefox76.0 10 10
+chrome94.0.4606.81 1 1
+mozilla 3 3
+Unknown 4 4
+chrome93.0.4577.63 1 1
+chrome91.0.4472.114 1 1
+chrome75.0.3770.100 2 2
+chrome86.0.4240.99 2 2
+safari13.1.2 1 1
+safari14.1.2 1 1
+chrome91.0.4472.101 202 186
+firefox93.0 54 52
+chrome86.0.4472.114 1 1
+chrome94.0.4606.61 2 2
+chrome89.0.4389.105 1 1
+chrome93.0.4577.62 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20211001142241
+Softaculous 20211009084317
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211015232128
+WhatsApp/2.21.14.24_A 20211008152407
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WhatsApp/2.21.14.24_A 20211008152407
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211015232128
+Softaculous 20211009084317
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 105 106
+From1 0 0
+From2 1 1
+From3 16 16
+From4 158 175
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://cpanel.ruangbelajar.xyz 12 12
+http://cpanel.ruangbelajar.xyz 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 47 0
+500 12 0
+301 5 1321
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 11
+/syahrul.php' 1 -
+/.git/config 1 -
+/assets/js/bootsrap.bundle.min.js 2 -
+/chelsea/standing.php 1 -
+/partial/standing.php 2 https://klp2.ruangbelajar.xyz/chelsea/
+/assets/js/bootstrap.bundle.min.js.map 14 -
+/cgi-bin/ 5 https://klp2.ruangbelajar.xyz/cgi-bin/
+/index.html 1 -
+/robots.txt 1 -
+/name_age.phpGET 1 -
+/assets/css/bootstrap.min.css.map 18 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+103.10.67.156 88 96 3831001 20211012082701
+103.10.67.149 54 56 1923302 20211011113700
+125.166.119.139 52 54 326901 20211015161501
+223.255.228.107 32 34 1458693 20211012091557
+103.10.67.168 10 10 1162 20211008151234
+103.10.67.162 7 11 688358 20211012062615
+118.99.76.176 4 4 808 20211015154206
+139.162.7.175 2 2 0 20211002012730
+36.90.55.239 2 2 34590 20211008142246
+36.73.207.223 2 2 318 20211008153014
+110.137.100.29 2 2 232 20211015154031
+114.5.243.110 2 2 318 20211008153854
+223.255.228.89 2 2 67929 20211011115052
+114.5.222.136 2 2 318 20211008153032
+34.77.162.13 1 1 214 20211013061501
+150.143.163.34 1 1 623 20211002163905
+103.164.172.49 1 1 159 20211009084317
+114.5.102.89 1 1 1333 20211015190709
+36.68.219.78 1 1 159 20211008152958
+223.255.228.102 1 1 159 20211009084155
+114.125.78.54 1 1 159 20211008152407
+61.135.15.167 1 1 214 20211009184317
+61.135.15.141 1 1 214 20211009183725
+104.244.210.247 1 1 623 20211002163905
+167.248.133.43 1 1 623 20211001141743
+84.17.46.176 1 1 623 20211002163904
+167.94.138.116 1 1 12275 20211001142241
+34.77.162.18 1 1 1333 20211015232128 20211015232128 /
+110.137.101.68 1 1 159 20211008153008
+203.176.177.5 1 1 159 20211008153000
+2.58.29.154 1 1 623 20211002163905
+84.17.46.164 1 1 623 20211002163905
+167.248.133.58 1 1 623 20211001142236
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20211001 3 3 13521 3
+20211002 7 7 3115 6
+20211008 22 22 37342 9
+20211009 4 4 746 4
+20211011 56 58 1991231 2
+20211012 127 141 5978052 3
+20211013 1 1 214 1
+20211015 60 62 330607 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 2
+30mn-1h 3
+30s-2mn 3
+15mn-30mn 3
+0s-30s 20
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/chelsea/ 89 5676307 3 1
+/ 68 38421 29 25
+/chelsea/partial/standing.php 56 477850 1 1
+/chelsea/match-details.php 38 185319 0 3
+/name_age.php 21 6088 0 1
+/syahrul.php 6 466 0 0
+/cpanel 1 33967 0 1
+/HTTP_GET.php 1 250 0 0
+END_SIDER
